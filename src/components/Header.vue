@@ -1,6 +1,6 @@
 <template>
     <div class="flex justify-start">
-        <p class="m-7 text-xl font-semibold">Urbanoo</p>
+        <router-link to="/" class="m-7 text-xl font-semibold">Urbanoo</router-link>
     </div>
 </template>
 
