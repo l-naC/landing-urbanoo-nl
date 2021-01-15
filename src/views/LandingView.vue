@@ -1,14 +1,20 @@
 <template>
-  <landing-view/>
+  <Header/>
+  <Home/>
+  <Footer/>
 </template>
 
 <script>
-import LandingView from './views/LandingView.vue'
+import Home from '../components/Home.vue'
+import Header from '../components/Header.vue'
+import Footer from '../components/Footer.vue'
 
 export default {
-  name: 'App',
+  name: 'landing-view',
   components: {
-    LandingView
+    Home,
+    Header,
+    Footer
   }
 }
 </script>
