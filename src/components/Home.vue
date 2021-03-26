@@ -1,5 +1,5 @@
 <template>
-    <div class="w-screen flex flex-col md:flex-row lg:flex-row">
+    <div class="flex flex-col md:flex-row lg:flex-row">
         <div class="w-full md:w-3/5 lg:w-3/5 flex flex-col justify-center text-left">
             <div class="w-10/12 md:w-1/2 lg:w-1/2 mx-auto mb-0 md:mb-60 lg:mb-60">
                 <h1 class="text-2xl my-5">URBANOO</h1>
