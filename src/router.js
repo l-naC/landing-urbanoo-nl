@@ -1,4 +1,4 @@
-import { createRouter, createWebHashHistory } from 'vue-router'
+import { createRouter, createWebHistory } from 'vue-router'
 
 import LandingView from './views/LandingView.vue'
 import MentionsView from './views/MentionsView.vue'
