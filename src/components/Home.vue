@@ -43,6 +43,6 @@ export default {
     }
 
     #mc-embedded-subscribe{
-        background-color: #99CCFF;
+        background-color: #4390C7;
     }
 </style>
